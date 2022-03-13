@@ -1,5 +1,5 @@
 package com.careerdevs.SpringBootDemo;
-
+// a demo API to work through and learn how springboot works
 public class Greeting {
 
     private final long id;
